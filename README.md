@@ -23,7 +23,7 @@ The entire system runs efficiently on **CPU-only infrastructure**, making it cos
 ---
 
 ## 🏗️ Architecture Overview
-
+```
 Lark HR AI Stack
 │
 ├── apps/
@@ -42,7 +42,7 @@ Lark HR AI Stack
 │   └── terraform/          # MongoDB Atlas / VPC / Secrets / Cloud infra
 │
 └── .github/workflows/      # CI/CD pipelines
-
+```
 ---
 
 ## 🧠 Technology Stack
